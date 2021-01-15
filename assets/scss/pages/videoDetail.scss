@@ -21,6 +21,12 @@
       outline: none;
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     }
+    .video__author {
+      a {
+        color: #3498db;
+        letter-spacing: 2px;
+      }
+    }
     .video__title,
     .video__views,
     .video__description {

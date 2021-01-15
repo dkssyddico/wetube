@@ -1,0 +1,11 @@
+.u-avatar {
+  height: 80px;
+  width: 80px;
+  background-color: $red;
+  border-radius: 50%;
+  img {
+    width: inherit;
+    height: inherit;
+    border-radius: 50%;
+  }
+}
